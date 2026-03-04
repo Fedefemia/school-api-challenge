@@ -1,0 +1,9 @@
+type Film {
+    id: ID!
+    titolo: String!
+    anno: Int!
+    regista: String!
+}
+type Query {
+    films: [Film]
+}

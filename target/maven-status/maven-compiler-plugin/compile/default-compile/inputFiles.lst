@@ -1,0 +1,14 @@
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/model/Film.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/Empty.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/FilmMessage.java
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/Application.java
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/rest/FilmRestController.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/EmptyOrBuilder.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/FilmListOrBuilder.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/grpc-java/com/scuola/apichallenge/grpc/FilmServiceGrpc.java
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/graphql/FilmGraphqlController.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/FilmMessageOrBuilder.java
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/grpc/server/GrpcServerManager.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/FilmList.java
+/home/fede_femia/api-challenge/target/generated-sources/protobuf/java/com/scuola/apichallenge/grpc/FilmProto.java
+/home/fede_femia/api-challenge/src/main/java/com/scuola/apichallenge/grpc/server/GrpcFilmServiceImpl.java
